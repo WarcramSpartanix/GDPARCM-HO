@@ -1,0 +1,67 @@
+﻿  AGameObject.cpp
+  BaseRunner.cpp
+  BGObject.cpp
+  FPSCounter.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\FPSCounter.cpp(24,57): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\FPSCounter.cpp(24,51): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\FPSCounter.cpp(24,45): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  GameObjectManager.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\GameObjectManager.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\GameObjectManager.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\GameObjectManager.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\GameObjectManager.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+  IconObject.cpp
+  IETThread.cpp
+  Main.cpp
+  MathUtils.cpp
+  StringUtils.cpp
+  TextureDisplay.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureDisplay.cpp(37,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureDisplay.cpp(38,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  TextureManager.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,32): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,44): error C2039: 'directory_iterator': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(28): message : see declaration of 'std'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,78): error C3861: 'directory_iterator': identifier not found
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): error C3861: 'directory_iterator': identifier not found
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,62): error C2672: 'begin': no matching overloaded function found
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(2169): message : see declaration of 'std::begin'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): message : With the following template arguments:
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): message : '_Container=unknown-type'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\initializer_list(57): message : see declaration of 'std::begin'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,62): error C2672: 'end': no matching overloaded function found
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(2179): message : see declaration of 'std::end'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): message : With the following template arguments:
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): message : '_Container=unknown-type'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\initializer_list(63): message : see declaration of 'std::end'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): error C3536: '<begin>$L0': cannot be used before it is initialized
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,80): error C3536: '<end>$L0': cannot be used before it is initialized
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(44,78): error C2100: illegal indirection
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,32): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,44): error C2039: 'directory_iterator': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\thread(28): message : see declaration of 'std'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,78): error C3861: 'directory_iterator': identifier not found
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): error C3861: 'directory_iterator': identifier not found
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,62): error C2672: 'begin': no matching overloaded function found
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(2169): message : see declaration of 'std::begin'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): message : With the following template arguments:
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): message : '_Container=unknown-type'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\initializer_list(57): message : see declaration of 'std::begin'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,62): error C2672: 'end': no matching overloaded function found
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(2179): message : see declaration of 'std::end'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): message : With the following template arguments:
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): message : '_Container=unknown-type'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'unknown-type'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\initializer_list(63): message : see declaration of 'std::end'
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): error C3536: '<begin>$L0': cannot be used before it is initialized
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,80): error C3536: '<end>$L0': cannot be used before it is initialized
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.cpp(97,78): error C2100: illegal indirection
+  Generating Code...

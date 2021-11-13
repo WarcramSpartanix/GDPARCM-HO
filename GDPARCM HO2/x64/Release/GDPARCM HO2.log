@@ -1,0 +1,28 @@
+﻿  AGameObject.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  AssetLoaderAction.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BaseRunner.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\BaseRunner.h(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BGObject.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  FPSCounter.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameObjectManager.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  IconObject.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  IETThread.cpp
+  Main.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\BaseRunner.h(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  MathUtils.cpp
+  PoolWorkerThread.cpp
+  StreamAssetLoader.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  StringUtils.cpp
+  TextureDisplay.cpp
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  TextureManager.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Programs\GDPARCM\GDPARCM HO2\GDPARCM HO2\TextureManager.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ThreadPool.cpp
